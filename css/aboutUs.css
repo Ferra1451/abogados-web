@@ -1,5 +1,8 @@
 .area-img-container-about img {
     width: 250px;
     height: 250px;
-    border-radius: 3rem;
+    /*border-radius: 3rem;*/
   }
+#aboutUs{
+  background-color: linear-gradient(#cccccc, #7cb8b5);
+}

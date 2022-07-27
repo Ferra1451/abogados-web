@@ -37,6 +37,8 @@ header {
   min-height: 100px;
 }
 
+
+
 header nav img {
   width: 12.5rem;
   background-color: white;
@@ -189,16 +191,14 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: white;
   border-radius: 5px;
-  border: 1px solid whitesmoke;
+  /*border: 1px solid whitesmoke;*/
 }
 #footerBox:hover {
-  background-color: whitesmoke;
   transform: scale(1.05);
 }
 #footerBox img {
-  width: 100%;
+  width: 80%;
 }
 
 #logoContainer a {
